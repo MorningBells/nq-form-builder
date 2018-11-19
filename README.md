@@ -2,7 +2,7 @@
 # Nq Form Builder
 基于React的表单生成器.
 - React升级到16.5.1
-- react-dnd用于拖拽 
+- react-dnd用于拖拽
 
 ![](screenshot.png)
 

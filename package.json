@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+http://git.metastudio.com.cn/Atlas/nq-form-builder.git"
+    "url": "git+https://github.com/magicjoey/nq-form-builder.git"
   },
   "files": [
     "lib",
