@@ -1,16 +1,15 @@
 [![npm package](https://img.shields.io/badge/npm-0.0.3-orange.svg?style=flat-square)](https://www.npmjs.com/package/react-form-builder2)
-# React Form Builder 2
-A complete react form builder that interfaces with a json endpoint to load and save generated forms.
-- Upgraded to React 16.4.1
-- Use react-dnd for Drag & Drop 
-- Save form data with dummy api server.
+# Nq Form Builder
+基于React的表单生成器.
+- React升级到16.5.1
+- react-dnd用于拖拽 
 
 ![](screenshot.png)
 
 ### Editing Items
 ![](screenshot2.png)
 
-# Basic Usage
+# 基础用法
 
 ```javascript
 var React = require('react');
